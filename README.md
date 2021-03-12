@@ -1,4 +1,4 @@
-![MGarza Developer](mgarza-dev.jpg)
+![MGarza Developer](mgarza_dev.jpg)
 
 - 👋 Hi, I’m @markogarza
 - 👀 I’m interested in ...
